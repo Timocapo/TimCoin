@@ -2,7 +2,7 @@
     "name": "Tim Coin",
     "symbol": "TIMC",
     "description": "Just A Little Fun",
-    "image": "https://github.com/Timocapo/TimCoin/blob/main/TimCoinLogo2.png?raw=true",
+    "image": "https://raw.githubusercontent.com/Timocapo/TimCoin/main/TimCoinLogo2.png",
     "attributes": [
       {
         "trait_type": "Item",
